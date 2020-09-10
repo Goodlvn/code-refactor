@@ -4,14 +4,12 @@ In this project we were given an website from a ficticious client. We are tasked
 
 In my attempt to complete the assignment I tried to remove as many of the divs that I could and replacing them with more semantic tags like 
 
-'''
-<header></header>
+```<header></header>
 <nav></nav>
 <figure></figure>
 <main></main>
 <section></section>
-<footer></footer>
-'''
+<footer></footer>```
 
 The main reference that I used throughout the assignment was a resource that Jerome posted. It's a [semantic html page] (https://www.w3schools.com/html/html5_semantic_elements.asp)
 
