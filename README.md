@@ -1,6 +1,6 @@
 # code-refactor
 
-In this [project](https://goodlvn.github.io/code-refactor/) we were given an website from a ficticious client. We are tasked with taking a look at the html structure and styling of the cleints website. We are asked to make it more accesible to comply with industry standards as well as re-organize the way the html is written so it is more semantically correct. The goal is to make all the changes without effecting the way the website displays. 
+In this [project](https://goodlvn.github.io/code-refactor/){:target="_blank" rel="noopener} we were given an website from a ficticious client. We are tasked with taking a look at the html structure and styling of the cleints website. We are asked to make it more accesible to comply with industry standards as well as re-organize the way the html is written so it is more semantically correct. The goal is to make all the changes without effecting the way the website displays. 
 
 ## Technolgies Used
 
