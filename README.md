@@ -17,7 +17,7 @@ In my attempt to complete the assignment I tried to remove as many of the divs t
 <footer></footer>
 ```
 
-The main reference that I used throughout the assignment was a resource that Jerome posted. It's a [semantic html page](https://www.w3schools.com/html/html5_semantic_elements.asp)
+The main reference that I used throughout the assignment was a resource that Jerome posted. It's about [semantic html page elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 
 I interpreted the hw instructions as a work flow for myself that looked as follows: 
