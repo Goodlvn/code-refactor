@@ -3,7 +3,6 @@
 In this project we were given an website from a ficticious client. We are tasked with taking a look at the html structure and styling of the cleints website. We are asked to make it more accesible to comply with industry standards as well as re-organize the way the html is written so it is more semantically correct. The goal is to make all the changes without effecting the way the website displays. 
 
 ## Technolgies Used
-<hr/>
 
 1. HTML - used to create the elements of a website
 2. CSS - used to style the contents of a website 
